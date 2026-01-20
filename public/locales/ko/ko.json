@@ -1,0 +1,14 @@
+{
+  "pages": {
+    "contact": {
+      "title": "찾아오시는 길",
+      "subtitle": "GPLAN은 언제나 여러분의 방문을 환영합니다.",
+      "mapTitle": "지도",
+      "addressTitle": "주소",
+      "address": "경기도 김포시 김포한강10로 133번길 107, C동 843호 (구래동, 디원시티 시그니처 지식산업센터)",
+      "transportationTitle": "대중교통 안내",
+      "subway": "지하철 이용 시",
+      "subwayDescription": "양촌역 김포골드라인 1번 출구 - 도보 7분 (500m)"
+    }
+  }
+}

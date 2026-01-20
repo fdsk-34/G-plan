@@ -1,0 +1,352 @@
+{
+  "common": {
+    "gplan": "GPLAN",
+    "weMakeBliss": "We Make Bliss",
+    "businessPlatform": "BUSINESS PLATFORM"
+  },
+  "logo": {
+    "homeLink": "GPLAN 홈으로 이동"
+  },
+  "navigation": {
+    "company": "회사소개",
+    "about": "회사소개",
+    "history": "연혁",
+    "mission": "미션",
+    "vision": "비전",
+    "values": "핵심가치",
+    "ci": "CI",
+    "talent": "인재상",
+    "business": "사업 영역",
+    "officeSupport": "사무업무지원",
+    "itSupport": "IT업무지원",
+    "marketingSupport": "홍보콘텐츠지원",
+    "consulting": "표준사업장 설립 컨설팅",
+    "contact": "오시는 길",
+    "inquiry": "고객 문의",
+    "language": "언어"
+  },
+  "topButton": {
+    "scrollToTop": "맨 위로 이동"
+  },
+  "hero": {
+    "tagline": "장애인표준사업장 Gplan은 사무혁신을 선도한다",
+    "taglineMobile": "사무혁신을 선도하는 Gplan"
+  },
+  "about": {
+    "title": "회사 소개",
+    "description1": "GPLAN은 행복한 일터의 가치를 실현하는 기업입니다.",
+    "description2": "함께 일하고 성장하며, 경험과 배움을 나누는 과정을 통해 일의 가치와 그 안에서 얻는 감사가 살아 있는 일터를 만들어갑니다.",
+    "description3": "성장이 중심이 되고, 일의 의미가 살아 있는 곳 — GPLAN은 모두가 성장하고 행복을 느낄 수 있는 일터의 기준을 세워갑니다."
+  },
+  "values": {
+    "title": "핵심가치",
+    "subtitle": "GPLAN을 만들어가는 4가지 핵심 가치",
+    "gather": {
+      "title": "GATHER",
+      "subtitle": "함께",
+      "description": "개인마다 다양한 배경과 상황을 가진 사람들이 함께 모여"
+    },
+    "growth": {
+      "title": "GROWTH",
+      "subtitle": "성장",
+      "description": "일과 경험을 통해 스스로 성장하고"
+    },
+    "give": {
+      "title": "GIVE",
+      "subtitle": "나눔",
+      "description": "배운 것과 경험한 것을 다른 사람들과 나누며"
+    },
+    "grace": {
+      "title": "GRACE",
+      "subtitle": "감사",
+      "description": "함께할 수 있고, 성장할 수 있고, 나눌 수 있음에 감사하는 마음으로 일할 수 있는"
+    },
+    "footer": "우리는 행복한 일터와 공동체를 만들어가는 기업입니다."
+  },
+  "vision": {
+    "title": "비전",
+    "mainStatement": "우리는 세상에서 가장 행복한 일터를 만듭니다.",
+    "description": "GPLAN은 일의 가치를 통해 함께 성장하고, 경험과 배움을 나누며, \n서로에게 감사하고 행복을 전하는 일터를 만들어갑니다.",
+    "blissDescription": "'Bliss'는 '더할 나위 없는 행복'이라는 뜻으로 GPLAN의 행복한 일터를 만드는 가치를 상징합니다."
+  },
+  "mission": {
+    "title": "미션",
+    "alt": "GPLAN 미션 - 세상의 빛과 소금으로 사회변혁의 주체가 된다",
+    "description1": "우리의 미션은 사람과 사회, 그리고 일터를 더 나은 방향으로 변화시키는 것이며, 같은 가치를 공유하는 사람들이 함께 성장하고 행복하게 일할 수 있는 일터를 만드는 것입니다.",
+    "description2": "우리는 세상에 없던 새로운 가치를 창출하고, 함께 성장하는 행복한 일터의 새로운 기준을 세워갑니다.",
+    "description3": "이것이 바로 GPLAN이 추구하는 상생과 나눔의 가치를 구현하는 일입니다."
+  },
+  "history": {
+    "title": "연혁",
+    "item1": {
+      "date": "2025년 10월 1일",
+      "content": "㈜벽산의 자회사로 주식회사 지플랜(GPLAN Co., Ltd.) 설립"
+    },
+    "item2": {
+      "date": "2025년 10월 31일",
+      "content": "장애인 표준사업장 인증"
+    },
+    "item3": {
+      "date": "2026년 1월 9일",
+      "content": "(주)하츠 지분 투자"
+    }
+  },
+  "talent": {
+    "title": "인재상",
+    "mainTitle": "일과 함께 성장하고, 함께 나누며,\n행복을 만들어가는 사람",
+    "description1": "GPLAN은 일의 가치를 통해 사람과 세상을 더 행복하게 만드는 공동체입니다.",
+    "description2": "우리는 함께 일하고 배우며, 서로의 성장을 응원할 때 진정한 행복이 만들어진다고 믿습니다.",
+    "footer": "GPLAN이 함께하고 싶은 사람은 이런 사람입니다.",
+    "gather": {
+      "title": "GATHER",
+      "subtitle": "함께",
+      "description": "다양한 사람들과 열린 마음으로 협력하며 함께하는 사람"
+    },
+    "growth": {
+      "title": "GROWTH",
+      "subtitle": "성장",
+      "description": "일과 경험을 통해 끊임없이 배우고 성장하는 사람"
+    },
+    "give": {
+      "title": "GIVE",
+      "subtitle": "나눔",
+      "description": "자신이 얻은 것을 나누고, 타인의 성장을 기쁘게 돕는 사람"
+    },
+    "grace": {
+      "title": "GRACE",
+      "subtitle": "감사",
+      "description": "함께 일하고 성장할 수 있음에 감사하며, 그 마음을 전하는 사람"
+    }
+  },
+  "business": {
+    "title": "사업 영역",
+    "description1": "GPLAN은 사무업무 생산성 개선 서비스, IT 시스템 관리 서비스, 홍보 콘텐츠 제작 및 SNS 채널 운영 서비스, 표준사업장 설립 컨설팅을 중심으로 한 지속 가능한 일터를 만들어갑니다.",
+    "description2": "장애인 근로자가 수행할 수 있는 사무 중심 직무를 개발하고, IT기술 및 AI기술 기반의 고품질 서비스를 제공합니다.",
+    "officeSupport": {
+      "title": "사무업무지원",
+      "subtitle": "사무업무 생산성 개선 서비스",
+      "description": "단순 사무업무 지원부터 RPA(Robotic Process Automation) 기술을 활용한 단순 업무의 프로세스 자동화까지 사무업무를 효율적으로 개선할 수 있는 솔루션을 제공합니다."
+    },
+    "itSupport": {
+      "title": "IT업무지원",
+      "subtitle": "IT 시스템 관리 서비스",
+      "description": "ERP, 그룹웨어, PRM, ECM 등 기업 핵심 시스템의 운영 및 유지보수를 지원합니다. 안정성과 보안성을 기반으로 지속 가능한 디지털 환경을 구축합니다."
+    },
+    "marketingSupport": {
+      "title": "홍보 콘텐츠 제작 및 SNS 채널 운영 서비스",
+      "subtitle": "",
+      "description": "기업 홍보 영상 및 AI 숏폼 영상 제작, 유튜브·인스타그램 등 SNS 채널 운영 대행 서비스를 제공합니다. 제품의 홍보 및 브랜드 인지도와 참여도를 높이는 통합 디지털 마케팅을 지원합니다."
+    },
+    "consulting": {
+      "title": "표준사업장 설립 컨설팅",
+      "subtitle": "",
+      "description": "자회사형·지분투자형 표준사업장 설립을 위한 전문 컨설팅을 제공합니다. 직무 분석, 사무직 직무개발, 맞춤형 인큐베이팅 프로그램까지 통합적으로 지원합니다."
+    }
+  },
+  "ci": {
+    "title": "CI",
+    "brandMessage": "브랜드 메세지",
+    "brandMessageText": "GPLAN은 Gather · Growth · Give · Grace의 가치를 바탕으로 사람과 일, 그리고 행복이 함께 성장하는 따뜻한 일터를 만들어갑니다.",
+    "ciDescription": "GPLAN의 CI는 \"사람들이 모여 일을 통해 함께 성장하고, 나누며, 감사함을 지속해가는 행복한 공동체\"라는 철학을 시각적으로 담고 있습니다.",
+    "gPlanStructure": {
+      "title": "G + PLAN 구조",
+      "description": "사명의 첫 글자인 G와 PLAN이 연결된 구조는 GPLAN이 사람과 일, 그리고 성장을 통해 지속가능하게 확장되는 공동체임을 상징합니다."
+    },
+    "plusSymbol": {
+      "title": "플러스(+) 심볼",
+      "description": "내부의 플러스 심볼은 개인의 성장과 긍정의 에너지가 조직 전체로 확산되는 공동체적 성장을 의미합니다."
+    },
+    "visionStatement": "GPLAN의 비전 \"We Make Bliss\"는 '일의 가치로 행복을 만들어가는 공동체'라는 브랜드 정체성을 명확히 드러냅니다.",
+    "colorIdentity": {
+      "title": "칼라 아이덴티티",
+      "subtitle": "GPLAN의 브랜드 가치를 담은 색상 체계",
+      "primary": {
+        "title": "Primary Color",
+        "name": "Deep Teal",
+        "values": {
+          "trust": "신뢰",
+          "expertise": "전문성",
+          "stability": "안정"
+        }
+      },
+      "accent": {
+        "title": "Accent Color",
+        "name": "Vibrant Orange",
+        "values": {
+          "energy": "에너지",
+          "positivity": "긍정",
+          "creativity": "창의성"
+        }
+      }
+    }
+  },
+  "footer": {
+    "tagline": "장애인 표준사업장 GPLAN은 사무혁신을 선도합니다.",
+    "quickLinks": "바로가기",
+    "contact": "연락처",
+    "companyIntro": "회사 소개",
+    "copyright": "© {{year}} GPLAN Co., Ltd. All rights reserved."
+  },
+  "pages": {
+    "talent": {
+      "title": "인재상",
+      "subtitle": "GPLAN이 함께하고 싶은 사람은 이런 사람입니다",
+      "introTitle": "인재상",
+      "introDescription1": "GPLAN은 일의 가치를 통해 사람과 세상을 더 행복하게 만드는 공동체입니다.",
+      "introDescription2": "우리는 함께 일하고 배우며, 서로의 성장을 응원할 때 진정한 행복이 만들어진다고 믿습니다.",
+      "talentsTitle": "GPLAN의 4가지 인재상"
+    },
+    "contact": {
+      "title": "오시는 길",
+      "subtitle": "GPLAN을 찾아오시는 길을 안내해 드립니다",
+      "mapTitle": "오시는 길",
+      "addressTitle": "주소",
+      "address": "경기도 김포시 김포한강10로 133번길 107, C동 843호 (구래동, 디원시티 시그니처 지식산업센터)",
+      "transportationTitle": "대중교통",
+      "subway": "지하철",
+      "subwayDescription": "양촌역 김포골드라인 1번 출구 - 도보 7분 (500m)"
+    },
+    "inquiry": {
+      "title": "고객문의",
+      "subtitle": "GPLAN에 대해 궁금하신 사항이 있으시면\n언제든지 문의해주세요",
+      "methodsTitle": "문의 방법",
+      "phone": "전화 문의",
+      "phoneHours": "평일 09:00 - 18:00",
+      "email": "이메일 문의",
+      "emailHours": "24시간 접수 가능"
+    },
+    "business": {
+      "pageTitle": "사업 영역",
+      "pageSubtitle": "GPLAN은 사무업무 생산성 개선, IT 시스템 관리, 홍보 콘텐츠 제작, 표준사업장 설립 컨설팅을 통해 지속 가능한 일터를 만들어갑니다."
+    },
+    "ci": {
+      "pageTitle": "CI",
+      "pageSubtitle": "GPLAN의 브랜드 메시지와 색상 체계를 한눈에 확인해 보세요."
+    },
+    "officeSupport": {
+      "title": "사무업무지원",
+      "subtitle": "전문적이고 효율적인 사무 업무 지원 서비스로\n귀사의 업무 생산성을 높여드립니다",
+      "servicesTitle": "제공 서비스",
+      "featuresTitle": "서비스 특징",
+      "welfareTitle": "사내 복리후생 제도 안내 및 지원 서비스",
+      "welfareItems": [
+        "리조트 예약/변경/취소 및 운영관리",
+        "각종 복리후생 안내 및 모니터링",
+        "사내 비품 및 시스템 라이선스 지원 등"
+      ],
+      "accountingTitle": "회계 재무 업무지원 서비스",
+      "accountingItems": [
+        "회계 전표 처리 및 검수",
+        "거래처 정보 등록 및 관리",
+        "재고 관리 모니터링",
+        "회계 재무 월마감 업무 지원 등"
+      ],
+      "productivityTitle": "사무업무 생산성 개선 서비스",
+      "rpaAlt": "RPA Robotic Process Automation",
+      "rpaCaseAlt": "RPA 적용 업무자동화 사례",
+      "features": {
+        "feature1": "장애인 고용 의무 이행과 동시에 전문적인 사무 지원 서비스 제공",
+        "feature2": "체계적인 교육을 통해 업무 전문성을 갖춘 인력 배치",
+        "feature3": "고객사의 업무 환경과 요구사항에 맞춤형 서비스 제공",
+        "feature4": "정기적인 품질 관리를 통한 안정적인 서비스 유지"
+      },
+      "ctaTitle": "사무업무지원 서비스가 필요하신가요?",
+      "ctaDescription": "전문 상담을 통해 귀사에 맞는 최적의 솔루션을 제안해드립니다"
+    },
+    "itSupport": {
+      "title": "IT업무지원",
+      "subtitle": "최신 기술과 전문성을 바탕으로\n귀사의 IT 업무를 안정적으로 지원합니다",
+      "servicesTitle": "제공 서비스",
+      "featuresTitle": "서비스 특징",
+      "coreSystemsTitle": "핵심 기간 시스템 운영 및 지원 서비스",
+      "coreSystemsDescription": "ERP/그룹웨어/PRM 등 시스템의 안정적인 운영을 위해 관리 및 유지보수",
+      "integrationTitle": "전산 시스템 통합 관리(SM/Interface) 서비스",
+      "integrationDescription": "기업 내 시스템 전반의 성능 유지와 안정화를 위한 통합 관리 업무",
+      "websiteTitle": "웹사이트 운영",
+      "websiteDescription": "웹사이트 구축, 관리, 콘텐츠 업데이트 등 웹 운영 전반",
+      "rpaTitle": "RPA 적용 사례",
+      "rpaDescription": "업무 자동화의 실제 적용 예시와 프로세스 구성도를 확인하세요.",
+      "features": {
+        "feature1": "IT 전문 교육을 이수한 숙련된 장애인 인력 배치",
+        "feature2": "보안과 품질을 최우선으로 하는 체계적인 프로젝트 관리",
+        "feature3": "최신 개발 도구와 기술 스택을 활용한 효율적인 업무 처리",
+        "feature4": "정기적인 기술 교육을 통한 지속적인 역량 강화"
+      },
+      "ctaTitle": "IT업무지원 서비스가 필요하신가요?",
+      "ctaDescription": "전문 상담을 통해 귀사에 맞는 최적의 IT 솔루션을 제안해드립니다"
+    },
+    "marketingSupport": {
+      "title": "홍보콘텐츠지원",
+      "subtitle": "AI 기반 콘텐츠 제작부터 SNS 채널 운영까지\n브랜드 성장을 위한 통합 마케팅 솔루션을 제공합니다",
+      "servicesTitle": "제공 서비스",
+      "featuresTitle": "서비스 특징",
+      "contentTitle": "콘텐츠 제작",
+      "contentDescription": "이미지, 영상, 카드뉴스 등 다양한 형태의 홍보 콘텐츠를 제작합니다",
+      "contentItems": ["AI를 활용한 이미지, 영상, 카드뉴스 등 다양한 형태의 홍보 콘텐츠 제작"],
+      "snsTitle": "SNS 채널 운영",
+      "snsDescription": "페이스북, 인스타그램, 블로그 등 SNS 채널을 체계적으로 운영합니다",
+      "snsItems": ["유튜브, 인스타그램, 블로그 등 SNS 채널 운영 대행"],
+      "marketingTitle": "마케팅 기획",
+      "marketingDescription": "효과적인 마케팅 전략 수립과 캠페인 기획을 지원합니다",
+      "marketingItems": ["효과적인 마케팅 전략 수립과 캠페인 기획 지원"],
+      "brandTitle": "브랜드 홍보",
+      "brandDescription": "브랜드 인지도 향상을 위한 통합 홍보 서비스를 제공합니다",
+      "brandItems": ["브랜드 인지도 향상을 위한 통합 홍보 서비스 제공"],
+      "features": {
+        "feature1": "AI 기술을 활용한 빠르고 효율적인 콘텐츠 제작",
+        "feature2": "다양한 SNS 플랫폼에 최적화된 맞춤형 콘텐츠 제공",
+        "feature3": "체계적인 마케팅 전략 수립과 데이터 기반 성과 분석",
+        "feature4": "정기적인 콘텐츠 업데이트와 채널 관리로 지속적인 브랜드 성장 지원"
+      },
+      "ctaTitle": "홍보 콘텐츠 서비스가 필요하신가요?",
+      "ctaDescription": "전문 상담을 통해 귀사의 브랜드를 빛낼 최적의 솔루션을 제안해드립니다"
+    },
+     "marketingContent": {
+      "title": "홍보콘텐츠지원",
+      "subtitle": "AI 기술을 활용한 전문적인 콘텐츠 제작으로\n브랜드 가치를 높여드립니다",
+      "servicesTitle": "제공 서비스",
+      "featuresTitle": "서비스 특징",
+      "contentTitle": "홍보콘텐츠 제작",
+      "contentDescription": "AI를 활용한 이미지, 영상, 카드뉴스 등 다양한 형태의 홍보 콘텐츠 제작",
+      "snsTitle": "SNS 채널 운영",
+      "snsDescription": "유튜브, 인스타그램, 블로그 등 SNS 채널 운영 대행",
+      "marketingTitle": "마케팅 기획",
+      "marketingDescription": "효과적인 마케팅 전략 수립과 캠페인 기획 지원",
+      "brandTitle": "브랜드 홍보",
+      "brandDescription": "브랜드 인지도 향상을 위한 통합 홍보 서비스 제공",
+      "features": {
+        "feature1": "AI 기술을 활용한 빠르고 효율적인 콘텐츠 제작",
+        "feature2": "데이터 기반의 전략적 마케팅 기획 및 실행",
+        "feature3": "다양한 채널에 최적화된 맞춤형 콘텐츠 제공",
+        "feature4": "브랜드 아이덴티티를 반영한 일관된 콘텐츠 품질"
+      },
+      "ctaTitle": "홍보콘텐츠 서비스가 필요하신가요?",
+      "ctaDescription": "전문 상담을 통해 귀사에 맞는 최적의 솔루션을 제안해드립니다"
+    },
+    "consulting": {
+      "title": "표준사업장 설립 컨설팅",
+      "subtitle": "장애인 표준사업장 설립의 모든 과정을\n체계적으로 지원하고 성공적인 운영을 돕습니다",
+      "servicesTitle": "제공 서비스",
+      "featuresTitle": "서비스 특징",
+      "establishmentTitle": "설립 컨설팅",
+      "establishmentDescription": "표준사업장 설립을 위한 요건, 절차, 인증 등 전 과정을 체계적 안내",
+      "jobTitle": "기업 맞춤형 직무 개발",
+      "jobDescription": "기업별 업무 특성을 고려한 맞춤형 직무 개발 및 업무혁신 지원",
+      "recruitmentTitle": "인력 채용 지원",
+      "recruitmentDescription": "직무에 적합한 장애인 인력 채용과 교육 프로그램 지원",
+      "operationTitle": "사업장 운영 자문",
+      "operationDescription": "안정적이고 효율적인 사업장 운영을 위한 전문 자문 제공",
+      "features": {
+        "feature1": "GPLAN의 실제 운영 노하우를 바탕으로 한 실질적인 컨설팅",
+        "feature2": "설립부터 운영까지 전 과정에 대한 원스톱 지원",
+        "feature3": "법률, 회계, 인사 등 전문가 네트워크를 통한 종합 지원",
+        "feature4": "설립 후에도 지속적인 모니터링과 개선 방안 제시"
+      },
+      "ctaTitle": "표준사업장 설립을 준비 중이신가요?",
+      "ctaDescription": "전문 상담을 통해 성공적인 표준사업장 설립을 도와드리겠습니다"
+    }
+  },
+  "cta": {
+    "defaultButton": "문의하기"
+  }
+}

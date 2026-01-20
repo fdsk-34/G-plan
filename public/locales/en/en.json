@@ -1,0 +1,14 @@
+{
+  "pages": {
+    "contact": {
+      "title": "Location",
+      "subtitle": "GPLAN always welcomes your visit.",
+      "mapTitle": "Map",
+      "addressTitle": "Address",
+      "address": "C-843, D1 City Signature Knowledge Industrial Center, 107, Gimpohangang 10-ro 133beon-gil, Gimpo-si, Gyeonggi-do",
+      "transportationTitle": "Public Transportation",
+      "subway": "By Subway",
+      "subwayDescription": "Gimpo Gold Line, Yangchon Station Exit 1 – 7 minutes on foot (500m)"
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "common": {
+    "gplan": "GPLAN",
+    "weMakeBliss": "We Make Bliss",
+    "businessPlatform": "BUSINESS PLATFORM"
+  },
+  "logo": {
+    "homeLink": "Go to GPLAN Home"
+  },
+  "navigation": {
+    "company": "About Us",
+    "about": "About Us",
+    "history": "History",
+    "mission": "Mission",
+    "vision": "Vision",
+    "values": "Core Values",
+    "ci": "CI",
+    "talent": "Talent",
+    "business": "Business Areas",
+    "officeSupport": "Office Support",
+    "itSupport": "IT Support",
+    "marketingSupport": "Marketing Support",
+    "consulting": "Standard Workplace Consulting",
+    "contact": "Contact Us",
+    "inquiry": "Inquiry",
+    "language": "Language"
+  },
+  "topButton": {
+    "scrollToTop": "Back to Top"
+  },
+  "hero": {
+    "tagline": "Gplan Leads Office Innovation as a Certified Standard Workplace",
+    "taglineMobile": "Leading Office Innovation: Gplan"
+  },
+  "about": {
+    "title": "About Us",
+    "description1": "GPLAN is a company that realizes the value of a joyful and fulfilling workplace.",
+    "description2": "We create a workplace where people work, grow, share experiences, and find gratitude in the value of work.",
+    "description3": "GPLAN is building a workplace where growth is at the center and everyone can find meaning and happiness in their work."
+  },
+  "values": {
+    "title": "Core Values",
+    "subtitle": "The Four Core Values That Shape GPLAN",
+    "gather": {
+      "title": "GATHER",
+      "subtitle": "Together",
+      "description": "People with diverse backgrounds come together as one"
+    },
+    "growth": {
+      "title": "GROWTH",
+      "subtitle": "Growth",
+      "description": "Growing through work and experiences"
+    },
+    "give": {
+      "title": "GIVE",
+      "subtitle": "Sharing",
+      "description": "Sharing what we have learned and experienced with others"
+    },
+    "grace": {
+      "title": "GRACE",
+      "subtitle": "Gratitude",
+      "description": "Working with gratitude for being able to be together, grow, and share"
+    },
+    "footer": "We are a company that builds joyful workplaces and communities."
+  },
+  "vision": {
+    "title": "Vision",
+    "mainStatement": "We create the happiest workplace in the world.",
+    "description": "GPLAN creates a workplace where people grow together, share experiences, appreciate one another, and spread happiness.",
+    "blissDescription": "'Bliss' symbolizes the greatest happiness, representing GPLAN’s vision of building a joyful workplace."
+  },
+  "mission": {
+    "title": "Mission",
+    "alt": "GPLAN Mission – Becoming the Light and Salt of Society for Positive Change",
+    "description1": "Our mission is to improve people, society, and workplaces by creating an environment where those who share our values can grow and work happily together.",
+    "description2": "We create new values that did not exist before and set new standards for joyful, collaborative workplaces.",
+    "description3": "This is how GPLAN fulfills its values of coexistence and sharing."
+  },
+  "history": {
+    "title": "History",
+    "item1": {
+      "date": "October 1, 2025",
+      "content": "GPLAN Co., Ltd. established as a subsidiary of Byucksan Co., Ltd."
+    },
+    "item2": {
+      "date": "October 31, 2025",
+      "content": "Certified as a Standard Workplace for the Disabled"
+    },
+    "item3": {
+      "date": "January 9, 2026",
+      "content": "(Ltd)HAATZ equity investment"
+    }
+  },
+  "talent": {
+    "title": "Talent",
+    "mainTitle": "People who grow with work, share with others,\nand create happiness",
+    "description1": "GPLAN is a community that creates happiness through the value of work.",
+    "description2": "We believe true happiness emerges when we work, learn, and support each other’s growth.",
+    "footer": "This is the type of talent GPLAN seeks.",
+    "gather": {
+      "title": "GATHER",
+      "subtitle": "Together",
+      "description": "Someone who collaborates with an open mind and works well with others"
+    },
+    "growth": {
+      "title": "GROWTH",
+      "subtitle": "Growth",
+      "description": "Someone who continuously learns and grows through work and experience"
+    },
+    "give": {
+      "title": "GIVE",
+      "subtitle": "Sharing",
+      "description": "Someone who willingly shares what they’ve gained and supports others’ growth"
+    },
+    "grace": {
+      "title": "GRACE",
+      "subtitle": "Gratitude",
+      "description": "Someone who is grateful for the opportunity to work and grow together"
+    }
+  },
+  "business": {
+    "title": "Business Areas",
+    "description1": "GPLAN creates sustainable workplaces through office productivity services, IT system management, marketing content production, SNS channel operations, and standard workplace establishment consulting.",
+    "description2": "We develop office-centered roles suitable for employees with disabilities and provide high-quality services based on IT and AI technologies.",
+    "officeSupport": {
+      "title": "Office Support",
+      "subtitle": "Office Productivity Enhancement Services",
+      "description": "From basic administrative support to process automation using RPA (Robotic Process Automation), we provide solutions that efficiently improve office operations."
+    },
+    "itSupport": {
+      "title": "IT Support",
+      "subtitle": "IT System Management Services",
+      "description": "We support the operation and maintenance of core enterprise systems such as ERP, groupware, PRM, and ECM, building sustainable digital environments with stability and security."
+    },
+    "marketingSupport": {
+      "title": "Marketing Content & SNS Operations",
+      "subtitle": "",
+      "description": "We provide corporate promotional video production, AI-powered short-form content creation, and SNS channel management services to enhance brand awareness and engagement."
+    },
+    "consulting": {
+      "title": "Standard Workplace Establishment Consulting",
+      "subtitle": "",
+      "description": "We provide professional consulting services for establishing standard workplaces, including job analysis, office role development, and customized incubation programs."
+    }
+  },
+
+  "ci": {
+    "title": "CI",
+    "brandMessage": "Brand Message",
+    "brandMessageText": "Based on the values of Gather · Growth · Give · Grace, GPLAN fosters a warm workplace where people, work, and happiness grow together.",
+    "ciDescription": "GPLAN’s CI visually represents the philosophy of a ‘happy community where people gather, grow, share, and sustain gratitude through work.’",
+    "gPlanStructure": {
+      "title": "G + PLAN Structure",
+      "description": "The connection of 'G' and 'PLAN' symbolizes GPLAN as a community growing sustainably through people, work, and development."
+    },
+    "plusSymbol": {
+      "title": "Plus (+) Symbol",
+      "description": "The internal plus symbol represents the expansion of individual growth and positive energy across the entire organization."
+    },
+    "visionStatement": "GPLAN’s vision, “We Make Bliss,” reflects its identity as a community that creates happiness through the value of work.",
+    "colorIdentity": {
+      "title": "Color Identity",
+      "subtitle": "A color system that embodies GPLAN’s brand values",
+      "primary": {
+        "title": "Primary Color",
+        "name": "Deep Teal",
+        "values": {
+          "trust": "Trust",
+          "expertise": "Expertise",
+          "stability": "Stability"
+        }
+      },
+      "accent": {
+        "title": "Accent Color",
+        "name": "Vibrant Orange",
+        "values": {
+          "energy": "Energy",
+          "positivity": "Positivity",
+          "creativity": "Creativity"
+        }
+      }
+    }
+  },
+  "footer": {
+    "tagline": "GPLAN, a Certified Standard Workplace for the Disabled, Leads Office Innovation.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "companyIntro": "About Us",
+    "copyright": "© {{year}} GPLAN Co., Ltd. All rights reserved."
+  },
+  "pages": {
+    "talent": {
+      "title": "Talent",
+      "subtitle": "This is the type of talent GPLAN seeks",
+      "introTitle": "Talent",
+      "introDescription1": "GPLAN is a community that creates happiness through the value of work.",
+      "introDescription2": "We believe true happiness emerges when we work, learn, and support each other’s growth.",
+      "talentsTitle": "GPLAN’s Four Talent Qualities"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Here is the information you need to reach GPLAN",
+      "mapTitle": "Map",
+      "addressTitle": "Address",
+      "address": "C-843, D1 City Signature Knowledge Industrial Center, 107, Gimpohangang 10-ro 133beon-gil, Gimpo-si, Gyeonggi-do",
+      "transportationTitle": "Public Transportation",
+      "subway": "Subway",
+      "subwayDescription": "Gimpo Gold Line, Yangchon Station Exit 1 – 7 minutes on foot (500m)"
+    },
+    "inquiry": {
+      "title": "Inquiry",
+      "subtitle": "If you have any questions about GPLAN,\nplease feel free to contact us anytime.",
+      "methodsTitle": "Contact Methods",
+      "phone": "Phone Inquiry",
+      "phoneHours": "Weekdays 09:00 - 18:00",
+      "email": "Email Inquiry",
+      "emailHours": "Available 24 hours"
+    },
+    "business": {
+      "pageTitle": "Business Areas",
+      "pageSubtitle": "GPLAN builds sustainable workplaces through office productivity enhancement, IT system management, marketing content creation, and standard workplace establishment consulting."
+    },
+    "ci": {
+      "pageTitle": "CI",
+      "pageSubtitle": "Explore GPLAN’s brand message and color identity at a glance."
+    },
+    "officeSupport": {
+      "title": "Office Support",
+      "subtitle": "Enhance your company's productivity through professional and efficient office support services",
+      "servicesTitle": "Services",
+      "featuresTitle": "Features",
+      "welfareTitle": "Welfare System Support",
+      "welfareItems": [
+        "Resort reservation/management",
+        "Welfare program guidance & monitoring",
+        "Office supplies & license support"
+      ],
+      "accountingTitle": "Accounting & Finance Support",
+      "accountingItems": [
+        "Journal entry processing & verification",
+        "Vendor information registration & management",
+        "Inventory monitoring",
+        "Month-end closing support"
+      ],
+      "productivityTitle": "Office Productivity Improvement",
+      "rpaAlt": "RPA Robotic Process Automation",
+      "rpaCaseAlt": "RPA Automation Example",
+      "features": {
+        "feature1": "Compliance with mandatory disabled employment while providing professional office support",
+        "feature2": "Trained personnel with specialized office skills",
+        "feature3": "Customized services tailored to the client’s workflow",
+        "feature4": "Stable service through regular quality inspections"
+      },
+      "ctaTitle": "Need Office Support Services?",
+      "ctaDescription": "We offer the optimal solution tailored to your company's needs."
+    },
+    "itSupport": {
+      "title": "IT Support",
+      "subtitle": "Supporting your IT operations with the latest technology and expertise",
+      "servicesTitle": "Services",
+      "featuresTitle": "Features",
+      "coreSystemsTitle": "Core System Operations",
+      "coreSystemsDescription": "Operation and maintenance of ERP, Groupware, PRM, and other enterprise systems",
+      "integrationTitle": "System Integration (SM/Interface)",
+      "integrationDescription": "System-wide performance maintenance and stabilization",
+      "websiteTitle": "Website Management",
+      "websiteDescription": "Website development, content updates, and full operational management",
+      "rpaTitle": "RPA Use Cases",
+      "rpaDescription": "See real examples of applied automation and process flows.",
+      "features": {
+        "feature1": "Skilled IT professionals with specialized training",
+        "feature2": "Security-first project management",
+        "feature3": "Efficient operations using modern development tools",
+        "feature4": "Continuous capability development through regular training"
+      },
+      "ctaTitle": "Need IT Support Services?",
+      "ctaDescription": "We propose the best IT solution tailored to your needs."
+    },
+    "marketingSupport": {
+      "title": "Marketing Content Support",
+      "subtitle": "From AI-powered content production to SNS channel management,\nwe provide integrated marketing solutions for brand growth",
+      "servicesTitle": "Services",
+      "featuresTitle": "Features",
+      "contentTitle": "Content Production",
+      "contentDescription": "We create diverse promotional content including images, videos, and card news",
+      "contentItems": ["AI-powered production of images, videos, and card news"],
+      "snsTitle": "SNS Channel Management",
+      "snsDescription": "We manage SNS channels such as YouTube, Instagram, and blogs",
+      "snsItems": ["YouTube, Instagram, blog management"],
+      "marketingTitle": "Marketing Strategy",
+      "marketingDescription": "We support effective marketing strategy development and campaign planning",
+      "marketingItems": ["Strategic marketing planning and execution"],
+      "brandTitle": "Brand Promotion",
+      "brandDescription": "We offer integrated PR services to enhance brand awareness",
+      "brandItems": ["Integrated brand promotion services"],
+      "features": {
+        "feature1": "Fast, efficient content creation using AI technology",
+        "feature2": "Customized content optimized for various SNS platforms",
+        "feature3": "Data-driven strategy planning and performance analysis",
+        "feature4": "Consistent content quality reflecting brand identity"
+      },
+      "ctaTitle": "Need Marketing Content Services?",
+      "ctaDescription": "We offer tailored solutions to elevate your brand."
+    },
+    "marketingContent": {
+      "title": "Marketing Content Support",
+      "subtitle": "Enhance your brand with professional AI-powered content production",
+      "servicesTitle": "Services",
+      "featuresTitle": "Features",
+      "contentTitle": "Content Production",
+      "contentDescription": "AI-powered production of images, videos, and card news",
+      "snsTitle": "SNS Channel Management",
+      "snsDescription": "YouTube, Instagram, and blog channel management",
+      "marketingTitle": "Marketing Strategy",
+      "marketingDescription": "Strategic marketing planning and campaign support",
+      "brandTitle": "Brand Promotion",
+      "brandDescription": "Integrated promotional services to strengthen brand awareness",
+      "features": {
+        "feature1": "Fast and efficient AI-powered content creation",
+        "feature2": "Data-driven strategic planning and execution",
+        "feature3": "Customized content optimized for each channel",
+        "feature4": "Consistent content quality aligned with brand identity"
+      },
+      "ctaTitle": "Need Marketing Content Services?",
+      "ctaDescription": "Get the best solution tailored to your brand."
+    },
+    "consulting": {
+      "title": "Standard Workplace Consulting",
+      "subtitle": "We support every step of establishing a standard workplace with a structured and practical approach",
+      "servicesTitle": "Services",
+      "featuresTitle": "Features",
+      "establishmentTitle": "Establishment Consulting",
+      "establishmentDescription": "Comprehensive guidance on requirements, procedures, and certifications",
+      "jobTitle": "Customized Job Development",
+      "jobDescription": "Development of customized office tasks suited to each company",
+      "recruitmentTitle": "Recruitment Support",
+      "recruitmentDescription": "Support for hiring and onboarding suitable workers with disabilities",
+      "operationTitle": "Operational Advisory",
+      "operationDescription": "Expert guidance for stable and efficient workplace operation",
+      "features": {
+        "feature1": "Practical consulting based on GPLAN’s real operational experience",
+        "feature2": "One-stop support from establishment to operation",
+        "feature3": "Comprehensive support through expert networks in law, HR, and finance",
+        "feature4": "Ongoing monitoring and improvement suggestions even after establishment"
+      },
+      "ctaTitle": "Preparing to Establish a Standard Workplace?",
+      "ctaDescription": "We provide professional consulting for a successful establishment."
+    }
+  },
+  "cta": {
+    "defaultButton": "Contact Us"
+  }
+}
